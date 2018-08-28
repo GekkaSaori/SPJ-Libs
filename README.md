@@ -8,3 +8,5 @@ Please read the example file ``SPJ-A+B.cpp`` for details.
 Issues & PRs are welcomed.
 
 Now Lemon is supported, too.
+
+Same Interfaces are used for both two libraries.
